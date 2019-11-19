@@ -63,7 +63,7 @@
           </div>
         </div>
 
-        <button :disabled="!validForm" class="submit">Submit</button>
+        <button class="submit">Submit</button>
       </div>
     </form>
   </div>
