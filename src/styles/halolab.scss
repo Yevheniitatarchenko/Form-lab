@@ -1,0 +1,18 @@
+@import "_fonts";
+
+h1, a {
+  font-family: 'OpenSans-Bold';
+}
+
+body {
+  margin: 0px;
+  background: linear-gradient(233.1deg, #216190 19.65%, #0834D0 81.25%);
+}
+
+.wrapper {
+  max-width: 688px;
+  padding: 60px 40px 32px 40px;
+  margin: 0 auto;
+}
+
+@import "_media";
